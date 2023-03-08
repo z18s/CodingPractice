@@ -4,7 +4,7 @@
 Examples and exercises.
 
 ### Books
-- [ ] Grokking Algorithms <!-- Грокаем алгоритмы -->
+- [ ] Grokking Algorithms
 
 ### Web
-- [ ] Project Euler <!-- Набор задач по математике и программированию -->
+- [ ] Project Euler
