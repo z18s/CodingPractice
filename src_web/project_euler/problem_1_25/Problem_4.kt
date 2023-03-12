@@ -5,10 +5,10 @@ import kotlin.math.max
 
 /**
  * Largest palindrome product. / Наибольшее произведение-палиндром.
- * <p>
+ *
  * A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
  * Find the largest palindrome made from the product of two 3-digit numbers.
- * <p>
+ *
  * Число-палиндром с обеих сторон читается одинаково. Наибольшее число-палиндром, полученное умножением двух двузначных чисел, это 9009 = 91 × 99.
  * Найдите самый большой палиндром, полученный умножением двух трёхзначных чисел.
  */

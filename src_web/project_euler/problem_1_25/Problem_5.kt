@@ -2,10 +2,10 @@ package project_euler.problem_1_25
 
 /**
  * Smallest multiple. / Наименьшее кратное.
- * <p>
+ *
  * 2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
  * What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
- * <p>
+ *
  * 2520 - наименьшее число, которое делится без остатка на все числа от 1 до 10.
  * Какое наименьшее число делится нацело на все числа от 1 до 20?
  */
